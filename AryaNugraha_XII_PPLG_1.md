@@ -22,4 +22,4 @@
    git commit -m "feat: implementasi fitur autentikasi multi-faktor (mfa)"
 
 6. Mengirim branch fitur baru ke remote repository (GitHub):
-   git push -u origin feature/mfa-auth
+   git push -u origin feature/mfa-auth.
